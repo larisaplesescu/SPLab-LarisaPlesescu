@@ -9,10 +9,17 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
+<<<<<<< HEAD
     <artifactId>SP_LAB2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SP_LAB2</name>
     <description>SP_LAB2</description>
+=======
+    <artifactId>SP_LAB2_STRATEGY</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>SP_LAB2_STRATEGY</name>
+    <description>SP_LAB2_STRATEGY</description>
+>>>>>>> 11097b3 (Laborator 2 Strategy)
     <url/>
     <licenses>
         <license/>
