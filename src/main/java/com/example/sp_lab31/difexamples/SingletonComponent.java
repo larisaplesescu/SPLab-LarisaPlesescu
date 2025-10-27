@@ -1,4 +1,4 @@
-package ro.uvt.difexamples;
+package com.example.sp_lab31.difexamples;
 
 import org.springframework.stereotype.Component;
 

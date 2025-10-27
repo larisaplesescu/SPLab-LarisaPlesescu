@@ -1,4 +1,4 @@
-package ro.uvt.controllers;
+package com.example.sp_lab31.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
