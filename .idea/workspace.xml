@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7619df35-9fdf-4d8e-ad16-51914a69f2f3" name="Changes" comment="Lab5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sp_lab7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sp_lab7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sp_lab7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sp_lab7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sp_lab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="34MqtpcyTQRBRSh1Kc8g5yZaqTY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Laptop/SPLab-LarisaPlesescu/SPLab-LarisaPlesescu&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Laptop\SPLab-LarisaPlesescu\SPLab-LarisaPlesescu\src\main\java\com\example\sp_lab4\uvt\config" />
+      <recent name="C:\Users\Laptop\SPLab-LarisaPlesescu\SPLab-LarisaPlesescu\src\main\java\com\example\sp_lab4\uvt\commands" />
+      <recent name="C:\Users\Laptop\SPLab-LarisaPlesescu\SPLab-LarisaPlesescu\src\main\java\com\example\sp_lab4\uvt\commands\impl" />
+      <recent name="C:\Users\Laptop\SPLab-LarisaPlesescu\SPLab-LarisaPlesescu\src\main\java\com\example\sp_lab4\uvt\books" />
+      <recent name="C:\Users\Laptop\SPLab-LarisaPlesescu\SPLab-LarisaPlesescu\src\main\java\com\example\sp_lab4\uvt\controllers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SPLab-LarisaPlesescu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SPLab-LarisaPlesescu" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7619df35-9fdf-4d8e-ad16-51914a69f2f3" name="Changes" comment="" />
+      <created>1761034007314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761034007314</updated>
+      <workItem from="1761034008838" duration="260000" />
+      <workItem from="1761551531485" duration="1065000" />
+      <workItem from="1761552987323" duration="729000" />
+      <workItem from="1761557502241" duration="1431000" />
+      <workItem from="1762237014626" duration="906000" />
+      <workItem from="1762508417042" duration="3335000" />
+      <workItem from="1762877231128" duration="30000" />
+      <workItem from="1762877794347" duration="2050000" />
+      <workItem from="1763736167600" duration="40000" />
+      <workItem from="1763736221250" duration="80000" />
+      <workItem from="1763736312027" duration="62000" />
+    </task>
+    <task id="LOCAL-00001" summary="lAB3">
+      <created>1761551601229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761551601229</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lAB3">
+      <created>1761551624157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761551624158</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lAB3">
+      <created>1761551686916</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761551686916</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lAB3">
+      <created>1761551786675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761551786675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lAB3">
+      <created>1761551987333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761551987333</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lAB3">
+      <created>1761552001608</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761552001608</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lAB3">
+      <created>1761552080743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761552080743</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lAB3">
+      <created>1761552130938</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761552130938</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lAB3">
+      <created>1761552212309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761552212310</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lAB3">
+      <created>1761552377668</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761552377668</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lAB3">
+      <created>1761552557257</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761552557257</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lab4">
+      <created>1761560416634</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761560416634</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lab5">
+      <created>1762880152486</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762880152486</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lAB3" />
+    <MESSAGE value="lab4" />
+    <MESSAGE value="Lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab5" />
+  </component>
+</project>
